@@ -1,0 +1,7 @@
+{
+  "name": "m_app_sirchai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
